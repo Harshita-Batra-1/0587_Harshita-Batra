@@ -4,7 +4,7 @@ using namespace std;
  
  
 int main(){ 
-    float m,n; //This is an example to make merge conflict
+    int m,n;
     cin>>m>>n; 
     int arr[m][n]; 
     for(int i=0;i<m;i++){ 
